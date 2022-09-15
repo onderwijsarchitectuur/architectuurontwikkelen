@@ -571,4 +571,16 @@
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-881a89d3054e45f89a2fb7e4a7547fd9.xml#id-881a89d3054e45f89a2fb7e4a7547fd9"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1f0d1ed7acfc414181541845cdd7ee4b">
+    <bounds
+        x="876"
+        y="60"
+        width="325"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-d52c56da3469407ea2d3b92485a97ef7.xml#id-d52c56da3469407ea2d3b92485a97ef7"/>
+  </children>
 </archimate:ArchimateDiagramModel>

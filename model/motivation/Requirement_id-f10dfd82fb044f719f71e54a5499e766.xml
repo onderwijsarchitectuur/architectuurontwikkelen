@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Omgeving benaderbaar via SSO"
+    name="Omgeving afgeschermd"
     id="id-f10dfd82fb044f719f71e54a5499e766"
     documentation="Als architect wil ik dat de werkversies en sommige delen van architectuur afgeschermd kunnen worden en daardoor niet publiek toegankelijk.&#xD;&#xA;"/>
