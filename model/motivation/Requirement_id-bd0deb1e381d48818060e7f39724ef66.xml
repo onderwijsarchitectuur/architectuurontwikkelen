@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Versiebeheer"
+    id="id-bd0deb1e381d48818060e7f39724ef66"
+    documentation="Als architect wil ik dat het origineel van het gewijzigde architectuur artifact in het architectuur continuüm blijft bestaan zodat enerzijds wijzigingen geen onbedoelde effecten hebben op gerelateerde artifacten, met name de bestaande visualisaties en anderzijds de wijzigingshistorie blijft bestaan.&#xD;&#xA;"/>
