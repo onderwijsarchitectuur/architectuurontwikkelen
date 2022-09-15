@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gedeelde werkwijze"
+    id="id-1da227b0c88549ce8412759d9a253f61"
+    documentation="Als architecten wil ik een gedeelde werkwijze (en bijbehorende tool) om gezamenlijk aan één architectuurcontinuüm te werken gericht. Dit architectuurcontinuüm is ingericht op maximaal hergebruik van  gedefinieerde architectuur componenten van DUO, inclusief referentie-, aspect- en solution architectuur componenten."/>

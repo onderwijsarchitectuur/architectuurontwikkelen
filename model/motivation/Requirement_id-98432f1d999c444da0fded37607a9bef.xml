@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integraal beeld"
+    id="id-98432f1d999c444da0fded37607a9bef"
+    documentation="Als gegevensarchitect wil ik een integraal beeld van onze gegevenshuishouding zoals beschreven door de modellen van de gegevensmodellencyclus; componenten uit de architectuur vormen onderdeel van de gegevenshuishouding. De gegevenshuishouding is makkelijk te raadplegen door medewerkers die een rol hebben in het voortbrengingsproces (BAT, Data- en DevOps)."/>
