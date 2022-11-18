@@ -1,4 +1,21 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsobject"
-    id="id-6a09318e55f3482290e0fb47ec9d8cf9"/>
+    id="id-6a09318e55f3482290e0fb47ec9d8cf9"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="omschrijving"
+      value="jaap"/>
+  <properties
+      key="extern_titel"
+      value="ding"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="grondslag"
+      value="Onbepaald"/>
+</archimate:BusinessObject>

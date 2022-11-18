@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aspect Architectuur"
-    id="id-3fce8f754ac54611b939b009f1cc4216"/>
+    id="id-3fce8f754ac54611b939b009f1cc4216">
+  <properties
+      key="jan"
+      value="piet"/>
+</archimate:BusinessObject>
