@@ -1,4 +1,5 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SKOS"
-    id="id-89ed714e040846b09a2e542f5d8eea36"/>
+    id="id-89ed714e040846b09a2e542f5d8eea36"
+    documentation="SKOS is pas-toe-of-leg uit standaard Forum Standaardisatie&#xD;&#xA;NL profiel in de maak, https://github.com/pldn/nederlands-profiel-voor-stelselcatalogi"/>

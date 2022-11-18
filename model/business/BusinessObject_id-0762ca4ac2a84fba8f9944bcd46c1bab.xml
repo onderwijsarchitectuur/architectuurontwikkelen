@@ -1,4 +1,21 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevensobject"
-    id="id-0762ca4ac2a84fba8f9944bcd46c1bab"/>
+    id="id-0762ca4ac2a84fba8f9944bcd46c1bab"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="omschrijving"
+      value="Een gegevensobject (GO) is een passief element uit de toepassingsarchitectuur (naar Archimate). &#xD;&#xA;&#xD;&#xA;Bij een gegevensobject hoort een logisch model dat de structuur en gegevensgerelateerde bedrijfsregels beschrijft als implementatieonafhankelijke basis voor gegevens in opslag en gegevens op reis.&#xD;&#xA;"/>
+  <properties
+      key="extern_titel"
+      value="Archimate"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="grondslag"
+      value="Onbepaald"/>
+</archimate:BusinessObject>

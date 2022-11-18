@@ -1,5 +1,9 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ArchiMate 3.1"
+    name="ArchiMate"
     id="id-a55023ae28384aa5a1662fca9d2eb533"
-    documentation="&#xD;&#xA;"/>
+    documentation="Taal voor architectuurmodellen. Tot nationale overheidsstandaard gebombadeerd door het CIO-beraad&#xD;&#xA;">
+  <properties
+      key="redactioneel"
+      value="versienummer weggelaten om beheer te voorkomen"/>
+</archimate:Constraint>

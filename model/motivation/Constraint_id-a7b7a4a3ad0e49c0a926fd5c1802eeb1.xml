@@ -1,5 +1,9 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="TOGAF 9.2"
+    name="TOGAF"
     id="id-a7b7a4a3ad0e49c0a926fd5c1802eeb1"
-    documentation="&#xD;&#xA;"/>
+    documentation="Standaard architectuurproces. Tot nationale overheidsstandaard gebombadeerd door het CIO-beraad&#xD;&#xA;">
+  <properties
+      key="redactioneel"
+      value="versienummer weggelaten om beheer te voorkomen"/>
+</archimate:Constraint>

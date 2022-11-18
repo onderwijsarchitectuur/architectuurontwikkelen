@@ -5,13 +5,13 @@
     documentation="Eigenschappen gestructureerd als tags.">
   <properties
       key="omschrijving"
-      value="jaap"/>
+      value="Een bedrijfsobject is gedefinieerd als  een gegevensgerelateerd architectuurelement dat vanuit bedrijfsperspectief relevant is. Het vertegenwoordigt gegevens welke door bedrijfsprocessen en/of -functies gebruikt of gecreëerd wordt"/>
   <properties
       key="extern_titel"
-      value="ding"/>
+      value="Archimate"/>
   <properties
       key="kernobject"
-      value="Product"/>
+      value="Middel"/>
   <properties
       key="avg-categorie"
       value="Niet-persoonsgegeven"/>

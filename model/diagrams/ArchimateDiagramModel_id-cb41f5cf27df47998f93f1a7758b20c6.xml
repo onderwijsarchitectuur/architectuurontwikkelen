@@ -153,7 +153,7 @@
     </sourceConnections>
     <bounds
         x="144"
-        y="228"
+        y="216"
         width="120"
         height="55"/>
     <archimateElement
@@ -194,7 +194,7 @@
           href="RealizationRelationship_id-7c6d19bed145429582fe374b9bf35a7b.xml#id-7c6d19bed145429582fe374b9bf35a7b"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="72"
         y="288"
         width="120"
         height="55"/>
@@ -354,7 +354,7 @@
     </sourceConnections>
     <bounds
         x="139"
-        y="348"
+        y="384"
         width="120"
         height="55"/>
     <archimateElement
